@@ -8,5 +8,6 @@
   "vulnerabilityAlerts": {
     "labels": ["security", "dependencies"],
   },
-  "baseBranches": ["kirkstone"]
+  "baseBranches": ["kirkstone"],
+  "forkProcessing": "enabled"
 }
